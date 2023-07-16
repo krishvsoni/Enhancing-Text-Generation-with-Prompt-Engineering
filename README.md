@@ -15,7 +15,7 @@ This project aims to provide a comprehensive beginner's guide to enhancing text 
 
 - `LICENSE`: This file contains the license for the project, specifying the terms and conditions for using and distributing the project's content or code. The project is likely licensed under the MIT License.
 
-- `Prompt.ipynb` and `Update Prompt.ipynb`: These notebooks discuss prompt design and its influence on text generation. They explore techniques and best practices for crafting effective prompts to yield desired outputs from language models.
+- `Prompt.ipynb`: These notebooks discuss prompt design and its influence on text generation. They explore techniques and best practices for crafting effective prompts to yield desired outputs from language models.
 
 - `Summarizing.ipynb`: This notebook focuses on text summarization, a technique for condensing or extracting key information from longer texts. It explores how prompt engineering can be applied to improve text summarization results.
 
