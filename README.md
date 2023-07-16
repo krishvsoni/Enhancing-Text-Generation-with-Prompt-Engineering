@@ -9,7 +9,7 @@ This project aims to provide a comprehensive beginner's guide to enhancing text 
 
 ## Files
 
-- `Inferring.ipynb` and `Update Inferring.ipynb`: These notebooks explore the topic of inferring in the context of prompt engineering and text generation. They focus on drawing conclusions and making educated guesses based on available information.
+- `Inferring.ipynb`: These notebooks explore the topic of inferring in the context of prompt engineering and text generation. They focus on drawing conclusions and making educated guesses based on available information.
 
 - `Iterative.ipynb`: This notebook delves into the iterative process of refining prompts and experimenting with variations to achieve desired text generation outcomes. It covers the iterative nature of prompt engineering and prompt design improvements.
 
