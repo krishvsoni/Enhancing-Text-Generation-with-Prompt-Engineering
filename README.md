@@ -42,5 +42,5 @@ Feel free to contribute to the project by creating pull requests or submitting i
 
 ## Contact
 
-For any inquiries or feedback, please reach out to [My Email](mailto:krishsoni1@icloud.com).
+For any inquiries or feedback, please reach out to [My Email](mailto:contact@krishsoni.co).
 
